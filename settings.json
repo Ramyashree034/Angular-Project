@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d5ea2bb8-496c-420b-b566-6c8fd1d8b558/resourceGroups/WebwiseCreation/providers/Microsoft.Web/sites/Angnewapp123",
+    "appService.deploySubpath": "."
+}
